@@ -1,2 +1,3 @@
 # tuxmachine
-A bad idea, inspired by even worse ideas.
+
+An open-source machine that runs Tux games.
