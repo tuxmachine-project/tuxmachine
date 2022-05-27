@@ -18,7 +18,7 @@ But if you still want to do it, here's how to do it:
 
 - Install Debian 11 (bullseye) with no graphical environment.
 - Run the following command as root:
-```apt-get install xorg gdm3 libnss3 libatk1.0-0 libatk-bridge2.0-0 libgtk-3-0 git curl -y```
+```apt-get install xorg gdm3 alsa-oss pulseaudio libnss3 libatk1.0-0 libatk-bridge2.0-0 libgtk-3-0 git curl -y```
 - Log in and run the following commands:  
 ```
 git clone https://github.com/tuxmachine-project/tuxmachine.git
