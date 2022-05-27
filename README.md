@@ -23,6 +23,10 @@ But if you still want to do it, here's how to do it:
 ```
 git clone https://github.com/tuxmachine-project/tuxmachine.git
 cd tuxmachine
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+source ~/.bashrc
+nvm install 16
 ```
 - Run the following commands as root:  
 ```
